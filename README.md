@@ -2,7 +2,8 @@ GEval
 =====
 
 An app to host your own tests and evaluate students.
-GEval uses Google's firebase for hosting the test and authentication. GEval lets you specify the admin accounts in firebase database. Admin account has access to all the results and other features automatically.
+GEval uses Google's firebase for hosting the test and authentication. GEval lets you specify the admin accounts in firebase database. 
+Admin account has access to all the results and other features automatically.
 
 ## Uses
 
@@ -41,7 +42,8 @@ To upload tests in realtime database go to the specified link inside firebase's 
     <img src="Sample/img13.png" width="75%"></br>
 </p>
 
-Add your questions, options and Time in this database child.You can easily do so using `Import JSON` feature of firebase. Using any online editor edit this [JSON question template](https://raw.githubusercontent.com/Gauravv97/GEval/master/QuesTemplate.json) and import it to your test.
+Add your questions, options and Time in this database child.You can easily do so using `Import JSON` feature of firebase. 
+Using any online editor edit this [JSON question template](https://raw.githubusercontent.com/Gauravv97/GEval/master/QuesTemplate.json) and import it to your test.
 
 #### Adding Admins
 

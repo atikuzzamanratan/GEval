@@ -1,39 +1,36 @@
 {
   "project_info": {
-    "project_number": "805205633427",
-    "firebase_url": "https://geval-183e7.firebaseio.com",
-    "project_id": "geval-183e7",
-    "storage_bucket": "geval-183e7.appspot.com"
+    "project_number": "460368460123",
+    "project_id": "quizzer-dcbea",
+    "storage_bucket": "quizzer-dcbea.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:805205633427:android:62f37d78f2b7d5c0",
+        "mobilesdk_app_id": "1:460368460123:android:a8abb647ce436cd66ac27e",
         "android_client_info": {
-          "package_name": "com.anondev.gaurav.geval"
+          "package_name": "tech.lokoj.geval.quizzer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "805205633427-6ebtu2ed49jg8898tj2k1t8ghofifqdv.apps.googleusercontent.com",
+          "client_id": "460368460123-19k10u5b1uoephilkjh3e1480d909mjo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDko2ZXepB3dBb_-f6NMAAoe6BM2Ishvrg"
+          "current_key": "AIzaSyDJW3F0i0PULJ04fQF5PNpLjU4xhDTMM1U"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460368460123-19k10u5b1uoephilkjh3e1480d909mjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

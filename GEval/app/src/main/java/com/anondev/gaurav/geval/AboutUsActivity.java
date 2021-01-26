@@ -2,11 +2,9 @@ package com.anondev.gaurav.geval;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
-import android.content.Context;
-import android.support.v7.app.AppCompatActivity;
+
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Display;
-import android.view.WindowManager;
 import android.webkit.WebResourceError;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
